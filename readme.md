@@ -1,3 +1,7 @@
+# Why did I make this?
+
+So I've been playing this iOS game called Theseus and there's a level I couldn't beat (level 80) so I decided to write a program to solve the level for me lol.
+
 # Theseus and the Minotaur Solver
 
 This repository includes:
